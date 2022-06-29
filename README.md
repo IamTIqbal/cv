@@ -1,2 +1,4 @@
-# cv
-CV of Tamim Iqbal
+#CV
+CV of MD. Tamim Iqbal
+#Job
+CEO, Co-Founder, 
